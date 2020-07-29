@@ -21,6 +21,12 @@
 - [Shape Up](https://basecamp.com/shapeup) - Basecamp
 - Joy, Inc
 
+## Definitions
+
+Mission: why a company exists
+
+Vision: where the company is going, based on its mission
+
 ## Strategy
 
 - Art of Action

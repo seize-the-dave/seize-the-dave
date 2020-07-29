@@ -50,6 +50,10 @@ Portfolio: More than one product
 - Measure What Matters (OKRs)
 - [X-Matrix](https://availagility.co.uk/2017/09/04/what-is-an-x-matrix/) (Hoshin Kanri)
 
+## Metrics
+
+- [Pirate Metrics](https://500hats.typepad.com/500blogs/2007/09/startup-metrics.html)
+
 ## Product Vision
 
 - [Working Backwards](https://www.inc.com/justin-bariso/amazon-uses-a-secret-process-for-launching-new-ideas-and-it-can-transform-way-you-work.html) - Amazon

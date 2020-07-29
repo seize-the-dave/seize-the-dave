@@ -16,6 +16,7 @@
 - [Badass: Making Users Awesome](https://www.amazon.co.uk/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/) - via Martin
 - [Jobs to be Done](https://www.amazon.co.uk/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032/) - via Martin
 - [Product School](https://productschool.com/free-product-management-resources/)
+- Product Kata - Melissa Perri
 
 ## Company Frameworks
 

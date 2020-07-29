@@ -4,11 +4,15 @@
 - [Shape Up](https://basecamp.com/shapeup) - Basecamp
 - Project to Product
 - Lean Startup
-- Lean Canvas
 - Running Lean
-- Scalng Lean
+- Scaling Lean
 - MTP
 - [Silicon Valley Products Group](https://svpg.com/)
+- Lean Canvas
+
+- [Strategyzer](https://www.strategyzer.com/books)
+  - Business Model Generation
+  - Value Proposition Design
 
 ## Strategy
 

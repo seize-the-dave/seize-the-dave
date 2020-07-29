@@ -7,6 +7,7 @@
 - Running Lean
 - Scaling Lean
 - MTP
+  - [INSPIRED](https://www.amazon.co.uk/Inspired-Companies-Technology-Powered-Products-Services/dp/1119387507)
 - [Silicon Valley Products Group](https://svpg.com/)
 - Lean Canvas
 

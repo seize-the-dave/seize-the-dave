@@ -13,6 +13,7 @@
 ## Strategy
 
 - Art of Action
+- [Strategize](https://www.amazon.co.uk/Strategize-Product-Strategy-Roadmap-Practices/dp/0993499201/)
 
 ### Strategy Deployment
 
@@ -22,3 +23,7 @@
 ## Problem Exploration
 
 ## Solution Exploration
+
+## Scrum
+
+- [Agile Product Management with Scrum](https://www.amazon.co.uk/dp/0321605780/)

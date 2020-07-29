@@ -15,6 +15,7 @@
 - [PM Library](https://thepmlibrary.com/books/)
 - [Badass: Making Users Awesome](https://www.amazon.co.uk/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/) - via Martin
 - [Jobs to be Done](https://www.amazon.co.uk/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032/) - via Martin
+- [Product School](https://productschool.com/free-product-management-resources/)
 
 ## Company Frameworks
 
@@ -35,6 +36,8 @@ Product initiatives: how we can use product to achieve our strategic goals
 Solutions (or bets or options): possible solutions to solve product initiatives
 
 Product vision: why you are building something and what the value proposition is for the customer
+
+Portfolio: More than one product
 
 ## Strategy
 

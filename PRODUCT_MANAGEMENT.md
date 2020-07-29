@@ -14,6 +14,11 @@
 
 - Art of Action
 
+### Strategy Deployment
+
+- Measure What Matters (OKRs)
+- [X-Matrix](https://availagility.co.uk/2017/09/04/what-is-an-x-matrix/) (Hoshin Kanri)
+
 ## Problem Exploration
 
 ## Solution Exploration

@@ -1,7 +1,6 @@
 # Resources on Product Management
 
 - Escaping the Build Trap
-- [Shape Up](https://basecamp.com/shapeup) - Basecamp
 - Project to Product
 - Lean Startup
 - Running Lean
@@ -16,7 +15,11 @@
 - [PM Library](https://thepmlibrary.com/books/)
 - [Badass: Making Users Awesome](https://www.amazon.co.uk/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/) - via Martin
 - [Jobs to be Done](https://www.amazon.co.uk/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032/) - via Martin
-- 
+
+## Company Methodologies
+
+- [Shape Up](https://basecamp.com/shapeup) - Basecamp
+- Joy, Inc
 
 ## Strategy
 

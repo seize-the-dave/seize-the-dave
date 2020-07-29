@@ -14,6 +14,9 @@
   - Business Model Generation
   - Value Proposition Design
 - [PM Library](https://thepmlibrary.com/books/)
+- [Badass: Making Users Awesome](https://www.amazon.co.uk/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/) - via Martin
+- [Jobs to be Done](https://www.amazon.co.uk/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032/) - via Martin
+- 
 
 ## Strategy
 
@@ -32,3 +35,4 @@
 ## Scrum
 
 - [Agile Product Management with Scrum](https://www.amazon.co.uk/dp/0321605780/)
+- [Product Mastery](https://www.amazon.co.uk/Product-Mastery-Good-Great-Ownership/dp/1540562549/)

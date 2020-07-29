@@ -6,7 +6,7 @@
 - Lean Startup
 - Running Lean
 - Scaling Lean
-- MTP
+- [Mind the Product](https://www.mindtheproduct.com/)
 - [Silicon Valley Products Group](https://svpg.com/)
   - [INSPIRED](https://www.amazon.co.uk/Inspired-Companies-Technology-Powered-Products-Services/dp/1119387507)
 - Lean Canvas

@@ -16,8 +16,9 @@
 - [Badass: Making Users Awesome](https://www.amazon.co.uk/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/) - via Martin
 - [Jobs to be Done](https://www.amazon.co.uk/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032/) - via Martin
 
-## Company Methodologies
+## Company Frameworks
 
+- [Product Frameworks](https://www.product-frameworks.com/)
 - [Shape Up](https://basecamp.com/shapeup) - Basecamp
 - Joy, Inc
 
@@ -29,7 +30,11 @@ Vision: where the company is going, based on its mission
 
 Strategy: how the company is going to reach the vision
 
-Product initiatives -> solutions (or bets or options)
+Product initiatives: how we can use product to achieve our strategic goals
+
+Solutions (or bets or options): possible solutions to solve product initiatives
+
+Product vision: why you are building something and what the value proposition is for the customer
 
 ## Strategy
 
@@ -41,7 +46,9 @@ Product initiatives -> solutions (or bets or options)
 - Measure What Matters (OKRs)
 - [X-Matrix](https://availagility.co.uk/2017/09/04/what-is-an-x-matrix/) (Hoshin Kanri)
 
-## Problem Exploration
+## Product Vision
+
+
 
 ## Solution Exploration
 

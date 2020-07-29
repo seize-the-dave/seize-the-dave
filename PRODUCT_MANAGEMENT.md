@@ -48,7 +48,7 @@ Product vision: why you are building something and what the value proposition is
 
 ## Product Vision
 
-
+- [Working Backwards](https://www.inc.com/justin-bariso/amazon-uses-a-secret-process-for-launching-new-ideas-and-it-can-transform-way-you-work.html) - Amazon
 
 ## Solution Exploration
 

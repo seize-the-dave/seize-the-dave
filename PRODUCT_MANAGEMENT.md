@@ -10,10 +10,10 @@
 - [Silicon Valley Products Group](https://svpg.com/)
   - [INSPIRED](https://www.amazon.co.uk/Inspired-Companies-Technology-Powered-Products-Services/dp/1119387507)
 - Lean Canvas
-
 - [Strategyzer](https://www.strategyzer.com/books)
   - Business Model Generation
   - Value Proposition Design
+- [PM Library](https://thepmlibrary.com/books/)
 
 ## Strategy
 

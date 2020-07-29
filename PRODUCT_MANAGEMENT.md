@@ -1,7 +1,7 @@
 # Resources on Product Management
 
 - Escaping the Build Trap
-- Shape Up
+- [Shape Up](https://basecamp.com/shapeup) - Basecamp
 - Project to Product
 - Lean Startup
 - Lean Canvas

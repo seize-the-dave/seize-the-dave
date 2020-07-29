@@ -29,6 +29,8 @@ Vision: where the company is going, based on its mission
 
 Strategy: how the company is going to reach the vision
 
+Initiatives -> solutions (or bets or options)
+
 ## Strategy
 
 - Art of Action
